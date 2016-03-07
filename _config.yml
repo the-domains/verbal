@@ -1,0 +1,28 @@
+name: verbal
+favicon: null
+layout_spectrum: 0.8941227647010237
+typography_spectrum: 0.4672117766458541
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5568541926331818
+  lightness: 0.2491279817186296
+  saturation: 0.23347984440624714
+  rhythmicContrast: 0.3532282104715705
+purpose: []
